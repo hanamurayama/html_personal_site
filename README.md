@@ -1,3 +1,3 @@
 # html_personal_website
 ## Quick Link
-https://hanamurayama.github.io/html_personal_website/
+https://hanamurayama.github.io/html_personal_site/
